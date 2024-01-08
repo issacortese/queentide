@@ -72,7 +72,7 @@ Books comprise 4-16 drawn cards in the round. At the end of each round, the play
 | Queentide | 2Q | Contender: gives current bookset to other Contender. Sworn: chooses a Contender and recieve's their bookset |
 | Reign | 2Q | A Contender's second Queentide within game. Contender may direct all Sworns to give their entire bookset to opposing Contender. |
 | Clapback | 2Q | After opposing Contender's Queentide. In addition to Contender giving their bookset to the opposing Contender, all Sworns give one book each to opposing Contender. |
-| Pretender | 2Q | A Sworn's second Queentide within game. The Contender with the most books becomes a Sworn and the Pretender becomes a Contender. The new opposing Contender recieves the Pretender's bookset. |
+| Pretender | 2Q | A Sworn's second Queentide within game. The Contender with the most books becomes a Sworn and the Pretender becomes a Contender. The opposing Contender recieves the Pretender's bookset. |
 
 #### Draw Outcomes
 
