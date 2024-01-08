@@ -36,6 +36,7 @@ Joker=0, A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K=13
 | :- | :- | :-: | :-: |
 | Contender | 2 players start the game as Contenders | 2 | 2 |
 | Sworn | Up to 6 players can join as Sworns at beginning of rounds while no cards have been drawn | 0 | 6 |
+| Pretender | A Sworn becomes a Contender after their second Queentide | -- | -- |
 
 #### Rounds
 
