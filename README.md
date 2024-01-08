@@ -2,7 +2,7 @@
 
 ![logo](./assets/crown.png)
 
-A multideck strategy game.
+A card game for advantage players where the game deck and players are variabilities. Inspired by Black Jack, Spades and Final Fantasy Tactics.
 
 Created by [Issa Cortese](./MAINTAINERS.md) and licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
